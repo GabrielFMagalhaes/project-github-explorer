@@ -9,7 +9,7 @@ Its an application to manage a list of repositories from GitHub. Also you can ch
 **&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 
-<h3> It was developed in TypeScript using technologies: <img src="imgs/react.png" alt="react" height="18"> React e NodeJS <img src="imgs/sqlite.png" alt="node" height="18">
+<h3> It was developed in TypeScript using technologies: <img src="imgs/react.png" alt="react" height="18"> React e NodeJS <img src="imgs/node.png" alt="node" height="18">
 
 
 
