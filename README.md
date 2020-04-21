@@ -13,19 +13,24 @@ Its an application to manage a list of repositories from GitHub. Also you can ch
 
 
 
-## Instalação
+## Installation
 
-Primeiramente é necessário realizar o clone do projeto. Feito isso, será necessário utilizar alguma ferramenta para gerenciamento de pacotes (yarn ou npm).
+First you need to clone the project, then it will be necessary a yarn or node to manage dependencies/packages
 
-Execute o comando ```yarn``` ou ```npm install``` nas pastas de backend, frontend e mobile para instalar as dependências do projeto.
+After you have attended the requirements, execute the following to download and install dependencies
+```yarn```
+or
+```npm install```
 
-Por fim, utilize o comendo ```npm start``` ou ```yarn start``` nas pastas de backend, frontend e mobile para inicializar as partes da aplicação.
+Later, you will have to start the local server to launch GitHub Explorer
+```npm start```
+or
+```yarn start```
 
 
-
-## Telas
+## Application Image
 
 <p align="center">
-    <img alt="" title="" src="imgs/tela-repositorio-facebook.png">
+    <img alt="" title="" src="imgs/tela-lista-repositorios.png">
     <img alt="" title="" src="imgs/tela-repositorio-facebook.png">
 </p>
